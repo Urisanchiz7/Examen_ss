@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 oriol.
 12 de noviembre del 2018
 =======
 oriol 
+=======
+oriol sanchiz
+>>>>>>> branca1_ss
 12/11/2018
 
 >>>>>>> branca1_ss
