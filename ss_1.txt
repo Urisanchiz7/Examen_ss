@@ -6,7 +6,11 @@ oriol.
 oriol 
 =======
 oriol sanchiz
+<<<<<<< HEAD
 >>>>>>> branca1_ss
 12/11/2018
+=======
+doze de noviembre del dos mil diez y ocho
+>>>>>>> branca1_ss
 
 >>>>>>> branca1_ss
